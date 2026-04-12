@@ -1,5 +1,5 @@
 /* --- إعدادات لوحة إدارة أ. منيرة - نسخة إدارة الحالات والطلبات --- */
-const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyieGnDiLr_tSEg8xjKrC1i4Z9Apps6By7H0t1KCsQE56NZFFNbZf-hTBfuKqXkYxvVqg/exec'; 
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwRLkCCuZMS7Vy_aM9vr-2Ld6LenqOGFy1rNKuPphf3qxURxg0BoB3J8WJC0xPcvhGSJw/exec'; 
 
 // 1. وظيفة تحديث الإعدادات (السعر + الحد الأدنى)
 async function updateAppPrice() {
